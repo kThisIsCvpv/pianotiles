@@ -1,7 +1,5 @@
 # Piano Tiles [DE2 Board Remake]
 ##### Winter 2019 - CSCB58 Final Project - Charles Xu and Eugene Wong
-# 
-#
 This project is our submission for Winter 2019's CSCB58 final project led by instructor Moshe Gabel.
 This project is a remake of the popular mobile game Piano Tiles.
 
