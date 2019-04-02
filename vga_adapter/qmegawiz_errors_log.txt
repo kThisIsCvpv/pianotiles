@@ -1,0 +1,10 @@
+
+
+/cmshome/xucharle/Desktop/cscb58_space/Final Project/vga_adapter/vga_pll.v
+
+Mar 11 07PM:30:40>: Error in CNX file format.
+
+Error messages are listed in file
+/cmshome/xucharle/Desktop/cscb58_space/Final Project/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)

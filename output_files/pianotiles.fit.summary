@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Apr 01 19:22:00 2019
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : pianotiles
+Top-level Entity Name : pianotiles
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 6,379 / 114,480 ( 6 % )
+    Total combinational functions : 6,355 / 114,480 ( 6 % )
+    Dedicated logic registers : 1,233 / 114,480 ( 1 % )
+Total registers : 1240
+Total pins : 76 / 529 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 230,400 / 3,981,312 ( 6 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

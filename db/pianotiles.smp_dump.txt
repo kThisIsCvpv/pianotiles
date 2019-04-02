@@ -1,0 +1,6 @@
+
+State Machine - |pianotiles|game_state
+Name game_state.00 game_state.10 game_state.01 
+game_state.00 0 0 0 
+game_state.01 1 0 1 
+game_state.10 1 1 0 
